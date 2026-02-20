@@ -25,7 +25,7 @@ public class Exec1 {
 		
 		double sal = (hs * 4)* vh;
 		
-		System.out.println("Cadastro " + cad + " Colaborador " + n + " Salario: " + " R$ " + dec.format(sal));
+		System.out.println("Cadastro: " + cad + " Colaborador: " + n + " Salario: R$ " + dec.format(sal));
 
 
 	}
