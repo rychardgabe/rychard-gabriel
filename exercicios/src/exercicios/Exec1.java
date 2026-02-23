@@ -27,7 +27,6 @@ public class Exec1 {
 		
 		System.out.println("Cadastro: " + cad + " Colaborador: " + n + " Salario: R$ " + dec.format(sal));
 
-
 	}
 
 }
