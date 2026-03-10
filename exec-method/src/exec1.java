@@ -22,7 +22,7 @@ public class exec1 {
 			imprimiriverno();
 		}
 		else if(e == 4) {
-			imprimirprimavera();
+			imprimirprimavera();	
 		}
 	}
 	public static void imprimirverao() {
