@@ -13,28 +13,28 @@ public class exec1 {
 		int e = input.nextInt();
 		
 		if(e == 1) {
-			verao();
+			imprimirverao();
 		}
 		else if(e == 2) {
-			outono();
+			imprimiroutono();
 		}
 		else if(e == 3) {
-			iverno();
+			imprimiriverno();
 		}
 		else if(e == 4) {
-			primavera();
+			imprimirprimavera();
 		}
 	}
-	public static void verao() {
+	public static void imprimirverao() {
 		System.out.println("É verão");
 	}
-	public static void outono() {
+	public static void imprimiroutono() {
 		System.out.println("As folas caem");
 	}
-	public static void iverno() {
+	public static void imprimiriverno() {
 		System.out.println("É inverno");
 	}
-	public static void primavera() {
+	public static void imprimirprimavera() {
 		System.out.println("As flores desabrocham");
 	}
 
