@@ -1,4 +1,3 @@
-
 public class cadastrarVeiculo {
 	
 	public static void main(String[] args) {
