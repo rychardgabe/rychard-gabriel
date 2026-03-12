@@ -20,9 +20,9 @@ public class cadastrarVeiculo {
 		v2.cor = "Roxo";
 		
 		if(v1.velMax > v2.velMax) {
-			System.out.println("O " + v1.modelo + " é o mais rapido");
+			System.out.println("O " + v1.marca + " " + v1.modelo + " é o mais rapido");
 		}else {
-			System.out.println("O " + v2.modelo + " é o mais rapido");
+			System.out.println("O " + v2.marca + " " + v2.modelo + " é o mais rapido");
 		}
 	}
 }
