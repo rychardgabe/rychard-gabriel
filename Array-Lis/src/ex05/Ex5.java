@@ -26,6 +26,5 @@ public class Ex5 {
         System.out.println("Não é um palíndromo.");
     }
     p.close();
-
 	}
 }
